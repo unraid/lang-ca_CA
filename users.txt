@@ -1,5 +1,5 @@
 Add User=Afegir Usuari
-AddA=Afegir
+Add=Afegir
 Click to select PNG file=Cliqui per seleccionar fitxer PNG
 Custom image=Imatge personalitazda
 Description=Descripció
