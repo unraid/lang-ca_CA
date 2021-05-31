@@ -17,3 +17,13 @@ Use a password up to 128 characters=Utilitza una contrasenya amb màxim 128 car�
 Use only lowercase letters, digits, underscores and dashes=Utilitza només minúscules, números, barra baixa i guions
 User %s has been deleted=L'usuari %s ha sigut eliminat
 User name=Nom d'usuari
+
+; New entries (8) - 2021-05-31
+Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
+Invalid Key=
+Management Access=
+No users are defined=
+Save=
+Shares Access=
+SSH authorized keys=
+Syntax of the key is incorrect=
