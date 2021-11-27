@@ -111,6 +111,7 @@ emulated=emulat
 Enabled=Activat
 enabled=activat
 Encrypted and unlocked=Encriptat i desbloquejat
+Erase=
 Error code=Codi d'error
 Error=Error
 error=error
