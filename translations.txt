@@ -27,6 +27,8 @@ Anonymous Mode=
 Apply=Aplicar
 Apps=Aplicacions
 Array must be Stopped to change=Array must be **Stopped** to change
+Array Clearing=
+Array Copying=
 Array Started=Array en marxa
 Array Starting=Iniciant array
 Array Stopped=Array parada
@@ -676,4 +678,4 @@ Remark Unraids WAN IPv4 %1s does not match your clients WAN IPv4 %2s=Remark: Unr
 This may indicate a complex network that will not work with this Remote Access solution=
 Ignore this message if you are currently connected via Remote Access or VPN=
 
-; Note: February 8, 2022 - 493 missing translations
+; Note: February 8, 2022 - 495 missing translations
