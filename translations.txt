@@ -55,6 +55,7 @@ Bug Description=Descripció del error
 Bug Report=Informe d'error
 bytes=bytes
 Cache=
+Calculated free space value=
 Cancel=Cancel·lar
 Capabilities=Capacitats
 Case-sensitive names=Noms que distingeixen majus/minus
@@ -909,4 +910,4 @@ Your current url %s is not in the list of allowed origins for this server=Your c
 Your server will not be usable until you purchase a Registration key or install a free 30-day Trial key=
 Your Unraid registration key is ineligible for replacement as it is blacklisted=
 
-; Note: April 11, 2023 - 694 missing translations
+; Note: April 18, 2023 - 695 missing translations
