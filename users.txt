@@ -7,23 +7,23 @@ Description=Descripció
 Do not use reserved names=No usi noms reservats
 Drag-n-drop a PNG file or click the image at the left=Arrastri una imatge PNG o cliqui la imatge de l'esquerra
 Edit User=Editar usuari
-Invalid Key=
 Invalid user name=Nom d'usuari invàlid
-Management Access=
-No users are defined=
 Only PNG images are allowed=Només imatges PNG permeses
 Password too long=Contrasenya massa llarga
 Password=Contrasenya
 Restore default image=Restaurar imatge per defecte
 Retype password=Torni a escriure la contrasenya
-Save=
-Shares Access=
 Show Hide password=Mostrar Amagar contrasenya
-SSH authorized keys=
-Syntax of the key is incorrect=
 Use a password up to 128 characters=Utilitza una contrasenya amb màxim 128 caràcters
 Use only lowercase letters, digits, underscores and dashes=Utilitza només minúscules, números, barra baixa i guions
 User %s has been deleted=L'usuari %s ha sigut eliminat
 User name=Nom d'usuari
 
-; Note: June 6, 2022 - 7 missing translations
+; Note: April 28, 2023 - 7 missing translations
+Invalid Key=
+Management Access=
+No users are defined=
+Save=
+Shares Access=
+SSH authorized keys=
+Syntax of the key is incorrect=
