@@ -68,9 +68,6 @@ Clear=Netejar
 Clearing=Netejant
 Click for context menu=Feu clic per desplegar el menú contextual
 Click=Clica
-Clock is unsynchronized with no NTP servers=
-Clock synchronized with %s NTP server=
-Clock synchronized with %s NTP servers=
 close all notifications=tancar totes les notificacions
 Close=Tancar
 close=tancar
@@ -1235,4 +1232,4 @@ Open a bug report=
 %s year=
 %s years=
 
-; Note: December 25, 2023 - 1058 missing translations
+; Note: December 25, 2023 - 1055 missing translations
